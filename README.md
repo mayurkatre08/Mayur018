@@ -59,7 +59,7 @@
   <img align="right" width="450px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=mjkatre08&" alt="Mayur Katre" />
   <img height="200px" src="https://github-profile-trophy.vercel.app/?username=mjkatre08" alt="mjkatre08" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjkatre08&theme=default" alt="profile"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sahil0412&show_icons=true&locale=en" alt="Mayur Katre" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=mjkatre08&show_icons=true&locale=en" alt="Mayur Katre" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mjkatre08&theme=default" alt="repolang"/> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mjkatre08&theme=default" alt="toplang" />
  
